@@ -7,13 +7,13 @@
 
 :root{
     
-    --cor-principal:#262597;
-    --cor-secundaria: #A3108B;
-    --cor-3: #E53470;
+    --cor-principal: #7bdcf0;
+    --cor-secundaria: #3cabd2;
+    --cor-3: #1b436c;
     --cor-4: #FF7656;
-    --cor-5: #FFB84D;
-    --cor-6: #F9F871;
-    --cor-de-fundo: #EBECEE;
+    --cor-5: #ffff9c;
+    --cor-6: #ecf76d;
+    --cor-de-fundo: #00cef5;
     --branco:#FFFFFF;
     --preto: #000000;
     --roxo: #9949B4;
@@ -25,8 +25,8 @@
 }
 
 body {
-    background-color: var(--cor-de-fundo);
-    font-family: var(--fonte-principal);
+    background-color: var(#5cc4e1);
+    font-family: var(#281f20);
 }
 
 h1 {
